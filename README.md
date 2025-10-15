@@ -5,26 +5,20 @@
 </p>
 
 <br>
+# 🌽 Projeto de Simulação de Irrigação e Equilíbrio de pH do Solo com ESP32
 
-# Nome do projeto
-
-## Nome do grupo
 
 ## 👨‍🎓 Integrantes: 
-
-Matheus de Souza Santos
-Paulo Roberto Silva Amaral Ribeiro
-Victor Oliveira Fedeli Tate
-Ricardo José Amorin Campos
+- Matheus de Souza Santos 
+- Paulo Roberto Silva Amaral Ribeiro
+- Victor Oliveira Fedeli Tate
+- Ricardo José Amorin Campos
 
 ## 👩‍🏫 Professores:
-Tutor(a)
-
-Prof.Ana Cristina
-
-Coordenador(a)
-
-André Godoi Chiovanato
+### Tutor(a) 
+- Prof.Ana Cristina
+### Coordenador(a)
+- André Godoi Chiovanato
 
 
 ## 📜 Descrição
