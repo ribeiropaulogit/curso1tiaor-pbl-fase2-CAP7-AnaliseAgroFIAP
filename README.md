@@ -5,7 +5,7 @@
 </p>
 
 <br>
-# 🌽 Projeto de Simulação de Irrigação e Equilíbrio de pH do Solo com ESP32
+# 🌽 Projeto de Análise estatística de dados do agro
 
 
 ## 👨‍🎓 Integrantes: 
@@ -23,7 +23,7 @@
 
 ## 📜 Descrição
 
-*Descreva seu projeto com base no texto do PBL (até 600 palavras)*
+Utilização de base de dados (no arquivo excel) com variável quantitativa discreta, quantitativa contínua, qualitativa nominal e qualitativa ordinal para análises diversas em R.
 
 
 ## 📁 Estrutura de pastas
