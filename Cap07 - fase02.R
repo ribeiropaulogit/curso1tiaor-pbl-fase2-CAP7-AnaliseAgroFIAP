@@ -3,7 +3,6 @@
 # Ricardo José Amorim Campos
 # Victor Oliveira Fedeli Tate
 # Paulo Roberto Silva Amaral Ribeiro Junior
-# Beatriz Siqueira
 # Fase2 - capítulo 7
 
 # Instalando e carregando pacotes necessários
